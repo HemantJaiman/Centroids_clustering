@@ -1,0 +1,10 @@
+key: 20_newsgroups_copy/cars/c1; value: cars; len: 1; 0:2; 
+key: 20_newsgroups_copy/cars/c2; value: cars; len: 1; 0:3; 
+key: 20_newsgroups_copy/cars/c3; value: cars; len: 1; 0:4; 
+key: 20_newsgroups_copy/cars/c4; value: cars; len: 1; 0:5; 
+key: 20_newsgroups_copy/cars/c5; value: cars; len: 1; 0:6; 
+key: 20_newsgroups_copy/cars/c6; value: cars; len: 1; 0:7; 
+key: 20_newsgroups_copy/cars/c7; value: cars; len: 1; 0:8; 
+key: 20_newsgroups_copy/cars/c8; value: cars; len: 1; 0:9; 
+key: 20_newsgroups_copy/cars/c9; value: cars; len: 1; 0:10; 
+key: 20_newsgroups_copy/cars/c10; value: cars; len: 1; 0:11;

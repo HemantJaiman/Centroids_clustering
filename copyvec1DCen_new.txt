@@ -1,0 +1,4 @@
+key: cluster0; value: cars; len: 1; 0:3.0;
+key: cluster1; value: cars; len: 1; 0:11.0;
+key: cluster2; value: cars; len: 1; 0:20.0;
+
